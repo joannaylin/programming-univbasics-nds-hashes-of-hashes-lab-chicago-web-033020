@@ -42,13 +42,13 @@ def naming_system
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
   biological_life = {
-    :PORTION_1 => 
+    :PORTION_1 =>
       {
       label: "Kingdom",
-      sub_category: 
+      sub_category:
         {
         label: "Phylum",
-        sub_category: 
+        sub_category:
           {
           label: "Class",
           sub_category: "Order"
